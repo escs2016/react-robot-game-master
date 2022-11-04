@@ -1,6 +1,6 @@
 # react-robot-game edited from 
 https://github.com/jnabor/react-robot-game 
-i maade it 5x5, test the code, run code
+i made it 5x5, test the code, run code
 
 A robot game made with react, styled-components, and typescript.
 
