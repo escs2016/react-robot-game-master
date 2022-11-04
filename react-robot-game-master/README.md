@@ -35,19 +35,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-## Game configuration
-
-Open src/config.js
-
-Below are the default configurations. Take note that other configurations are not well tested.
-
-```JavaScript
-// configurations
-export const GAME_DIMENSION = 600 // in pixels:  n x n
-export const TIMER_START = 60 // in seconds
-```
-
-## Screen Capture
 
 
 
