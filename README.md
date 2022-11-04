@@ -27,3 +27,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ![image](https://user-images.githubusercontent.com/54736552/199971335-2ddaecb6-321e-44ee-a1e0-07841bb8924c.png)
 ![image](https://user-images.githubusercontent.com/54736552/199971496-2e82d35c-55bc-4088-a9a5-046c49a28d5c.png)
+
+you can also watch the video of the finished project file name - Robot Simulator video.mp4
